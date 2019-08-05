@@ -31,9 +31,9 @@ hero_link_text: Example Call To Action
 
 ## Create a callout data file
 
-Create a data file following the below format. The style is for classes to set the background colour and sizes you would like to use of the Bulma hero container for the callouts.  
+Create a data file following the below format. The style is for classes to set the background colour and sizes you would like to use of the Bulma hero container for the callouts.
 
-The items have 5 fields, but only the title and subtitle are required. 
+The items have 5 fields, but only the title and subtitle are required.
 
 ```yml
 style: is-light
@@ -44,7 +44,7 @@ items:
     description: >
       The example description text goes here and can be multiple lines.
 
-      For example, such as this. 
+      For example, such as this.
     call_to_action_name: Call to action 1
     call_to_action_link: /page-1/
   - title: Example callout 2

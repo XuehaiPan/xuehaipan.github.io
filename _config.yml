@@ -19,14 +19,12 @@ sass:
 #google_analytics: UA-code-here
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       show_sidebar: true
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
