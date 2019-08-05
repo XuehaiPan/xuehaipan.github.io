@@ -1,1 +1,11 @@
+# Site Settings
+title: xuehaipan.github.io
+tagline: xuehaipan.github.io
+email: XuehaiPan@pku.edu.cn
+description: >
+  GitHub page website for Xuehai Pan
+baseurl: ""
+url: https://xuehaipan.github.io
+permalink: pretty
+
 remote_theme: chrisrhymes/bulma-clean-theme
